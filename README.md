@@ -1,2 +1,2 @@
 # 🍱 Designs
-My designs be use figma app 
+ - My designs be use figma app 
